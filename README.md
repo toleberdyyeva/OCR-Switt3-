@@ -22,4 +22,6 @@ $ git clone https://github.com/toleberdyyeva/OCR-Switt3-.git
 $ pod install 
 $ open LiveDetection.xcworkspace/ 
 ```
-## That is it ! :D have a fun coding time
+#### That is it ! :D have a fun coding time
+> Note: This is `JUST FOR FUN` project. Don't tell anyone from GOV guys. 
+> by Alisher Toleberdyyev 
